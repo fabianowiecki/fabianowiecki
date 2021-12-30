@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @fabianowiecki
-- 👀 I’m interested in CelLuaPI
-- 🌱 I’m currently learning nothing XD
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me _!4
+- 🌱 I’m currently learning nothing
+- ⭐Also im always bored and dont have anything to do
 
 <!---
 fabianowiecki/fabianowiecki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
